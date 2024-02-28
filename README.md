@@ -1,2 +1,6 @@
 # ML-FinalProject
-FInal Project for Machine Learning CSCI 425. (Handwritten Digit and Letter Recognition)
+Final Project for Machine Learning CSCI 425. (Handwritten Digit and Letter Recognition)
+
+
+# Members
+Mauricio Posadas
